@@ -8,7 +8,7 @@
 #include <lvgl.h>
 #include <zmk/endpoints.h>
 
-#define NICEVIEW_PROFILE_COUNT 5
+#define NICEVIEW_PROFILE_COUNT 2
 
 #define CANVAS_SIZE 68
 #define CANVAS_COLOR_FORMAT LV_COLOR_FORMAT_L8 // smallest type supported by sw_rotate
