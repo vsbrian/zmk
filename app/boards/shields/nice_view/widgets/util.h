@@ -8,7 +8,7 @@
 #include <lvgl.h>
 #include <zmk/endpoints.h>
 
-#define NICEVIEW_PROFILE_COUNT 5
+#define NICEVIEW_PROFILE_COUNT 2
 
 #define CANVAS_SIZE 68
 
